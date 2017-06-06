@@ -1,0 +1,7 @@
+.liberal, .conservative, .moderate {
+  display: none;
+}
+
+#space {
+  margin-top: 25px;
+}
